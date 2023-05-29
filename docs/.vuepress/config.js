@@ -7,7 +7,7 @@ module.exports = {
   },
   title: "Govee生态工具集合",
   description: "打造适合Govee的生态工具链产品",
-  base: "/toolchain",
+  base: "/toolchain/",
   themeConfig: {
     subSidebar: "auto",
     nav: [
